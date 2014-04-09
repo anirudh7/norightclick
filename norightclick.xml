@@ -13,7 +13,6 @@
     <scriptfile>script.install.php</scriptfile>
     <files>
         <filename plugin="norightclick">norightclick.php</filename>
-        <filename>norightclick.xml</filename>
         <filename>norightclick.js</filename>
     </files>
 </extension>
