@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="system" method="upgrade">
+    <name>System - No Right Click</name>
+    <author>Anirdh Kumar</author>
+    <creationDate>09 April 2014</creationDate>
+    <copyright>Poor Man's Copyright (C) Anirudh . All rights reserved.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <authorEmail>anirudh7@live.com</authorEmail>
+    <authorUrl>www.secondjob.co.nz</authorUrl>
+    <version>1.0.0</version>
+    <description> This Joomla Plugin disables right click on your website to protect your resources. 
+    </description>
+    <scriptfile>script.install.php</scriptfile>
+    <files>
+        <filename plugin="norightclick">norightclick.php</filename>
+        <filename>norightclick.xml</filename>
+        <filename>norightclick.js</filename>
+    </files>
+</extension>
